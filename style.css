@@ -1,0 +1,28 @@
+.container {
+    text-align: center;
+    background-color: aqua;
+    width: 50vw;
+    border: 1px solid black;
+   font-size: 20px;
+}
+.head-2 {
+ font-size: 40px;
+ text-align: center;
+    background-color: aqua;
+   }
+.head-3 {
+    font-size: 4em;
+    text-align: center;
+    background-color: aqua;
+}
+
+   html {
+    font-size: 62.5%
+        }
+        .head-4 {
+    text-transform: lowercase;
+    text-decoration: underline;
+    text-align: center;
+    border: 10px solid black;
+    font-size: 4em;
+}
